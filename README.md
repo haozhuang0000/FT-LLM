@@ -2,7 +2,7 @@
 
 #### Description:
 
-Finetune llama3:8b in order to extract financial statistics from 10K report with Unsloth framework
+Finetune llama3:8b in order to extract financial statistics (Table & Paragraph) from 10K report with Unsloth framework
 
 - `conda create -n ENV_NAME python=3.11`
 - `pip install -r requirements.txt`
